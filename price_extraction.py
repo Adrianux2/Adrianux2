@@ -1,3 +1,4 @@
+# This would extract and store on a CSV the SKU, Name, price and color of every item of any catalog of the sites: https://www.myeyelab.com or https://www.stantonoptical.com"
 import time
 import warnings
 from selenium import webdriver
