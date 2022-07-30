@@ -1,3 +1,6 @@
+# This macro would read a csv file with all the corresponding stores, check if it have a sunbit banner, 
+# if it does, would click it and compare the name of the store with the present name on the Sunbit page, 
+# as well as the brand (Myeyelab or StantonOptical)"
 import time
 import warnings
 import pandas as pd
