@@ -1,3 +1,4 @@
+# This macro would receive a CSV with a list of URL that would be test for a 200 response connection.
 import pandas as pd
 import requests
 from alive_progress import alive_bar
